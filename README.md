@@ -1,3 +1,5 @@
+Readme written by my partner for this project, Brandon Manville
+
 # Background and Datasets
 This project was an exploration of Neural Networks. It was done with Cameron Bronson, but I did all of the coding and led the project. He helped me analyze the results, create the report, create a PowerPoint that went along with it, and run my code on his computers.
 The link to the smoking/drinking dataset: https://www.kaggle.com/datasets/sooyoungher/smoking-drinking-dataset. The link to the original (uncleaned) powerlifting dataset: https://www.kaggle.com/datasets/open-powerlifting/powerlifting-database/.
