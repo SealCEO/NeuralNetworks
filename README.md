@@ -17,6 +17,3 @@ I would like to implement more unsupervised learning techniques before going to 
 
 ### Data Visualization
 To go along with pre-processing, I would also like to add more data visualization. Not only visualization of the data itself but visualization of the results. In the report for this project, we listed the results in a few paragraphs with lots of words. I think it would be much more helpful and neater to create graphs to easily see the results given by each method.
-
-### Better Hyperparameter Tuning/Cloud Computing
-I have recently upgraded my computer. I should now be able to run more models locally. Besides running local models, I would like to switch to cloud-based computing for faster results (like AWS). This is something I am going to work on figuring out throughout the next semester for the next project. With the addition of the new software and cloud computing, I should be able to train many more models to find better hyperparameters.
